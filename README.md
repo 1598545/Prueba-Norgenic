@@ -7,8 +7,14 @@ Cuando cursé la asignatura de Tecnologies de Desenvolupament per a Internet i W
 Dado que uso Windows, para simplificar el setup del entorno he seguido la recomendación de Carlos Vioque y he utilizado Laragon. De esta manera, la base de datos ha sido creada en Laragon, por lo que las indicaciones dadas para Laravel no las he seguido. 
 
 Adjunto a continuación ambas tablas:
-Tabla authors: ![image](https://github.com/1598545/Prueba-Norgenic/assets/115882763/a705176d-e8aa-4538-9e88-988c9cf04241)
-Tabla books: ![image](https://github.com/1598545/Prueba-Norgenic/assets/115882763/4927de99-619e-443e-9404-1bbb5fb0c9a6)
+
+Tabla authors: 
+
+![image](https://github.com/1598545/Prueba-Norgenic/assets/115882763/a705176d-e8aa-4538-9e88-988c9cf04241)
+
+Tabla books: 
+
+![image](https://github.com/1598545/Prueba-Norgenic/assets/115882763/4927de99-619e-443e-9404-1bbb5fb0c9a6)
 
 He tenido problemas con el CSS de Bootstrap 5.3, pues este no me funcionaba. De este modo, he decidido crear un archivo styles.css por tal de hacer los estilos de la página lo más parecidos posible.
 
